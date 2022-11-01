@@ -1,4 +1,4 @@
-**Imprting**<br>
+**Importing**<br>
 import * as LapyxHash from 'lapyx-hash';
 
 **Usage**<br>
